@@ -1,0 +1,34 @@
+h1{
+    color:blue
+    
+}
+a{
+    color:coral
+
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: black;
+}
+.origami{
+    border:3px solid coral;
+    border-radius: 80px;
+    justify-content: space-evenly;
+    
+    justify-content: center;
+    justify-content: space-between;
+}
+.grid{
+    display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+justify-content: center;
+
+}
+*{
+    background-color: lightcyan;
+}
