@@ -13,22 +13,30 @@ a{
     font-family: sans-serif;
     font-weight: 400;
     color: black;
+    padding:15px;
 }
 .origami{
-    border:3px solid coral;
+    border:3px solid #ff7f50;
     border-radius: 80px;
     justify-content: space-evenly;
-    
+    padding:5px;
+    margin:3px;
     justify-content: center;
     justify-content: space-between;
+    background-color: #ffa07a;
 }
 .grid{
     display: flex;
 flex-wrap: wrap;
 justify-content: space-between;
 justify-content: center;
+margin:10px;
 
 }
 *{
-    background-color: lightcyan;
+    
+}
+body{
+    margin:0px;
+    background-color: #e0ffff;
 }
